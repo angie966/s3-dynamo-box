@@ -1,6 +1,6 @@
 # Welcome to Serverless!
 
-service: upload-to-s3-and-postprocess # NOTE: update this with your service name
+service: upload-to-s3-and-postprocess 
 
 
 provider:
